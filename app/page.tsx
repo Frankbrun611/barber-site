@@ -43,7 +43,7 @@ export default function BarberShopDemoSite() {
       <header className="sticky top-0 z-30 border-b border-stone-300/80 bg-stone-100/85 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
           <div>
-            <p className="text-xl font-black tracking-tight text-stone-900">Hair Lanes Barber & Beauty Studio</p>
+            <p className="text-xl font-black tracking-tight text-stone-900">Razor Arte Barber Studio</p>
             <p className="text-sm text-stone-600">Designer haircuts, braids, twists, silk press, and more.</p>
           </div>
 
